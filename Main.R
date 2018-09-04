@@ -1,4 +1,4 @@
-setwd("//bosch.com/dfsrb/DfsCN/loc/Wx/Dept/TEF/60_MFE_Manufacturing_Engineering/06_Data_Analytics/01_Project/MOE/MOE1/Smart tool change_Friendly user interface")
+setwd("ccc")
 
 #source("./Script/GetData.R")# get real time input data
 
